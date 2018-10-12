@@ -1,15 +1,15 @@
 name="AnWizard-18 Servidor 1"
 url="https://archive.org/download/AnWizardLeiaMayo/AnWizard_Leia_Mayo.zip"
 img="https://github.com/poluxw4u/InstaladorWizard/raw/master/Anwizart/anwizard18.png"
-fanart="https://github.com/Carlesto/Instalador-v3/raw/master/Anwizart/fanart.jpg"
-description="Instala la imagen de Anabel Para Kodi 17.6"
+fanart="https://github.com/poluxw4u/InstaladorWizard/raw/master/Anwizart/fondo.jpg"
+description="Instala la imagen de Anabel Para Kodi 18"
 
 name="AnWizard-18 Servidor 2"
 url="http://catana.xyz/Wizard/AnWizard_Leia_Mayo.zip"
 img="https://github.com/poluxw4u/InstaladorWizard/raw/master/Anwizart/anwizard18.png"
-fanart="https://github.com/Carlesto/Instalador-v3/raw/master/Anwizart/fanart.jpg"
-description="Instala la imagen de Anabel Para Kodi 17.6"
+fanart="https://github.com/poluxw4u/InstaladorWizard/raw/master/Anwizart/fondo.jpg"
+description="Instala la imagen de Anabel Para Kodi 18"
 
 
-
+https://github.com/poluxw4u/InstaladorWizard/raw/master/Anwizart/fondo.jpg
 https://github.com/poluxw4u/InstaladorWizard/raw/master/Anwizart/anwizard18.png
