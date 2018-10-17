@@ -1,0 +1,11 @@
+name="Repositorio UrlResolver "
+plugin="repository.xbmchub-3.0.0"
+url="https://archive.org/download/repository.xbmchub-3.0.0_201808/repository.xbmchub-3.0.0.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="http://"
+fanart="http://"
+adult="no"
+description="repository.xbmchub-3.0.0"
+

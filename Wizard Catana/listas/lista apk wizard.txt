@@ -1,0 +1,8 @@
+name="[COLOR yellow]VPNs[/COLOR]"
+section="yes"
+url="https://pastebin.com/raw/j3z8tuNX"
+icon="http://www.dailymobile.net/wp-content/uploads/2012/07/android-robot-alone-500x322.png"
+fanart="https://wallpapercave.com/wp/7IaMOXv.jpg"
+adult="No"
+description="Apk de VPN"
+
