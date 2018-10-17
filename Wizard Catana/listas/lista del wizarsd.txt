@@ -22,7 +22,7 @@ preview="https://"
 adult="no"
 description="Instala BabyWizard para Kodi Jarvis"
 
-name="Kodi Jarvis Catoal (Marzo) Servidor 1"
+name="Kodi Jarvis Catoal Marzo Servidor 1"
 version="0.2"
 url="https://archive.org/download/JarvisCatoalMarzo/JarvisCatoal-Marzo.zip"
 gui="http://"
