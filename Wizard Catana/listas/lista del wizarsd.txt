@@ -36,7 +36,7 @@ description="Instala la imagen Catoal para Krypton"
 
 name="Kodi Krypton Catoal - Octubre Servidor 2"
 version="0.1"
-url="http://catana.xyz/Wizard/Catoal-Octubre.zip"
+url="http://catana.xyz/Wizard/Catoal_01_19.zip"
 gui="http://"
 kodi="17"
 theme="http://"
