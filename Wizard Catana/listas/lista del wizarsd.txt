@@ -48,7 +48,7 @@ description="Instala la imagen Catoal para Krypton"
 
 name="Kodi Leia Catoal - Enero Servidor 1"
 version="0.1"
-url="https://archive.org/download/wizardcatoal_leiaV1/wizardcatoal_leiaV1.zip"
+url="https://archive.org/download/CatoalLeia0119/Catoal_leia_01_19.zip"
 gui="http://"
 kodi="18"
 theme="http://"
